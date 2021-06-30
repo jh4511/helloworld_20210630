@@ -1,1 +1,1 @@
-printf('hello my friends')
+printf('who are you')
