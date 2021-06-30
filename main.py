@@ -1,1 +1,1 @@
-printf('hello adsfdf')
+printf('hello my friends')
